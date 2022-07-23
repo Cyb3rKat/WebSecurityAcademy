@@ -5,8 +5,8 @@
 
 
 
-|  Vul  | Lab Num |            Description             |              Script               |
-| :---: | :-----: | :--------------------------------: | :-------------------------------: |
-|  SQL  |   01    | ./"SQL Injection"/Lab-01/README.MD | ./"SQL Injection"/Lab-01/lab01.py |
+|  Vul  | Lab Num |                   Description                   |                  Script                   |
+| :---: | :-----: | :---------------------------------------------: | :---------------------------------------: |
+|  SQL  |   01    | [Description](./SQL_Injection/Lab-01/README.MD) | [Script](./SQL_Injection/Lab-01/lab01.py) |
 
 
